@@ -8,7 +8,10 @@ body {
     background: #0C0033;
     height: 550px;
     color: #fff;
+}
 
+.container{
+   padding-left: 90px !important;
 }
 
 h1,

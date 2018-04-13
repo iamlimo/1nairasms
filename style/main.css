@@ -330,7 +330,7 @@ a:hover {
     }
     
      .phone {
-        display: none;
+        visibility: hidden;
     }
 }
 

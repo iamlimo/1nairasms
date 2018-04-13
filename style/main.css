@@ -328,6 +328,10 @@ a:hover {
     margin-top: 500px;
     left: 60px;
     }
+    
+     .phone {
+        display: none;
+    }
 }
 
     

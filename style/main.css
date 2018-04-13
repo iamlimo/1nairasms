@@ -300,4 +300,14 @@ a:hover {
     color: #003;
 }
 
+@media only screen and (max-width: 750px) {
 
+    .divTable {
+        margin-left: -25px;
+    }
+
+    .clients {
+        padding: 60px 0px 60px 0px;
+        padding-left: 70px;
+    }
+}
